@@ -17,4 +17,4 @@ Finally:
 
 GitHub Repository URL: https://github.com/Aliyajalal/Assignment1_c0929608
 
-The repository is private, and the instructor has been added as a collaborator.
+The repository is public, and the instructor has been added as a collaborator.
